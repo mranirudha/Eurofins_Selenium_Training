@@ -1,0 +1,10 @@
+C:\Users\UJ56\Desktop\SelniumTraining\EurofinsJul2021\SeleniumBasics\bin\Debug\SeleniumBasics.exe.config
+C:\Users\UJ56\Desktop\SelniumTraining\EurofinsJul2021\SeleniumBasics\bin\Debug\SeleniumBasics.exe
+C:\Users\UJ56\Desktop\SelniumTraining\EurofinsJul2021\SeleniumBasics\bin\Debug\SeleniumBasics.pdb
+C:\Users\UJ56\Desktop\SelniumTraining\EurofinsJul2021\SeleniumBasics\bin\Debug\WebDriver.dll
+C:\Users\UJ56\Desktop\SelniumTraining\EurofinsJul2021\SeleniumBasics\bin\Debug\WebDriver.xml
+C:\Users\UJ56\Desktop\SelniumTraining\EurofinsJul2021\SeleniumBasics\obj\Debug\SeleniumBasics.csproj.AssemblyReference.cache
+C:\Users\UJ56\Desktop\SelniumTraining\EurofinsJul2021\SeleniumBasics\obj\Debug\SeleniumBasics.csproj.CoreCompileInputs.cache
+C:\Users\UJ56\Desktop\SelniumTraining\EurofinsJul2021\SeleniumBasics\obj\Debug\SeleniumBasics.csproj.CopyComplete
+C:\Users\UJ56\Desktop\SelniumTraining\EurofinsJul2021\SeleniumBasics\obj\Debug\SeleniumBasics.exe
+C:\Users\UJ56\Desktop\SelniumTraining\EurofinsJul2021\SeleniumBasics\obj\Debug\SeleniumBasics.pdb
